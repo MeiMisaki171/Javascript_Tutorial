@@ -1,0 +1,13 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "nam",
+      "description": "dep trai"
+    },
+    {
+      "age": "25",
+      "id": 2
+    }
+  ]
+}
